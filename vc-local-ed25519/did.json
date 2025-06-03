@@ -6,7 +6,7 @@
   "id": "did:web:Anil-kumar-Majji.github.io:DID:vc-local-ed25519",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkkuYh2uSNbfAC3ovihExmaZRzTFd2w1xaPAjGNDSPxTPF",
+      "publicKeyMultibase": "z6MkmAJGAbZVLzFw5WfS8bLNJeLZoBW2yvDFBSkG7H5EbTLg",
       "controller": "did:web:Anil-kumar-Majji.github.io:DID:vc-local-ed25519",
       "id": "did:web:Anil-kumar-Majji.github.io:DID:vc-local-ed25519#key-0",
       "type": "Ed25519VerificationKey2020",
